@@ -1,0 +1,2 @@
+
+This is a collection of notes to write about what I'm learning about gamedev with Unreal Engine 5. The main goal is to have a place to keep every piece of information I might need while working on my projects, and to better my writing, thinking, and remembering abilities.
